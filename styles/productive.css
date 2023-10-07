@@ -1,0 +1,52 @@
+.container-productive{
+  display: grid;
+  grid-template-columns: 580px 1fr;
+  margin-top: 100px;
+  align-items: center;
+}
+
+.productive-img{
+  margin-left: 70px;
+  height: 100%;
+}
+
+.prod-img{
+  max-height: 350px;
+}
+
+.prod-title{
+  font-size: 32px;
+}
+
+.prod-description{
+  margin-top: 20px;
+}
+
+.prod-link{
+  color: hsl(176, 68%, 64%);
+  display: flex;
+  text-decoration: underline;
+}
+
+.prod-link p{
+  color: hsl(176, 68%, 64%);
+}
+
+.prod-link:hover{
+  color:#fff;
+}
+
+.prod-link p:hover{
+  color: #fff;
+}
+
+
+.arrow{
+  margin-left: 5px;
+  padding-top: 22px;
+  align-items: end;
+}
+
+.arrow:hover{
+  opacity: 1;
+}

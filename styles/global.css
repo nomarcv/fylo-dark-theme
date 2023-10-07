@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  background-color: hsl(218, 28%, 13%);
+  padding-bottom: 1000px;
+}
+
+h1
+,h2
+,h3{
+  font-family: Raleway;
+}
+
+p{
+  font-family: Open Sans;
+  font-size: 14px;
+}
+
+h1,
+h2,
+h3,
+p{
+  color: #fff;
+  margin: 0;
+}
+
+.header p{
+  font-size: 15px;
+}
